@@ -1,4 +1,3 @@
-pip install bash
 termux-setup-storage
 echo "wait 20 sec"
 sleep 20
